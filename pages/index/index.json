@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "shopping":"../shoppingcard/shoppingcard"
+  },
+  "navigationBarTitleText": "购物车"
+}
